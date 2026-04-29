@@ -1,12 +1,11 @@
 <div align="center">
 
-# Andrea Anaya
+# Andrea
 
 **`Estudiante de Ingeniería Informática · Full-Stack Developer en formación`**
 
-Estudiante de 2º en [Universidad Europea del Atlántico](https://www.uneatlantico.es), Santander.
-Me especializo en el desarrollo de aplicaciones web con arquitecturas escalables y orientadas a producto.
-Aprendo mejor cuando los problemas son difíciles — cuanto más técnico, mejor.
+¡Hola! Soy Andrea, estudiante de Ingeniería Informática en la [Universidad Europea del Atlántico](https://www.uneatlantico.es), encaminada hacia el desarrollo full-stack. Siempre tengo alguna pestaña abierta con algún proyecto en el que meterme — me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en lo que construyo. Disfruto aprendiendo de forma continua porque creo que es la mejor manera de cuidar la calidad de mi trabajo.
+
 
 [![Email](https://img.shields.io/badge/andrea.anaya@alumnos.uneatlantico.es-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
 [![Instagram](https://img.shields.io/badge/@andreea31__-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
