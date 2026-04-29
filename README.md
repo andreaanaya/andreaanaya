@@ -6,7 +6,7 @@
 
 Estudiante de 3º en la [Universidad Europea del Atlántico](https://www.uneatlantico.es), Santander.
 Me especializo en el desarrollo de aplicaciones web con arquitecturas escalables y orientadas a producto.
-Aprendo mejor cuando los problemas son difíciles — cuanto más técnico, mejor.
+
 
 [![Email](https://img.shields.io/badge/andrea.anaya@alumnos.uneatlantico.es-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
 [![Instagram](https://img.shields.io/badge/@andreea31__-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
