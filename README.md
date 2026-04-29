@@ -1,15 +1,15 @@
 <div align="center">
 
-# Andrea
+# Andrea Anaya
 
 **`Estudiante de Ingeniería Informática · Full-Stack Developer en formación`**
 
 ¡Hola! Soy Andrea, estudiante de Ingeniería Informática en la [Universidad Europea del Atlántico](https://www.uneatlantico.es), encaminada hacia el desarrollo full-stack. Siempre tengo alguna pestaña abierta con algún proyecto en el que meterme — me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en lo que construyo. Disfruto aprendiendo de forma continua porque creo que es la mejor manera de cuidar la calidad de mi trabajo.
 
-
-[![Email](https://img.shields.io/badge/andrea.anaya@alumnos.uneatlantico.es-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
-[![Instagram](https://img.shields.io/badge/@andreea31__-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
-[![X](https://img.shields.io/badge/@andreea31__-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/andreea31__)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/andreea31__)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gPtzWUBHEm)
 
 </div>
 
@@ -17,14 +17,15 @@
 
 ## 🧠 Sobre mí
 
-| | |
-|---|---|
-| 📍 **Ubicación** | Santander, Cantabria 🇪🇸 |
-| 🎓 **Universidad** | Universidad Europea del Atlántico |
-| 🔭 **Enfoque** | Full-Stack Web · API Design · UI/UX funcional |
-| 📖 **Aprendiendo** | TypeScript · Next.js · Docker · CI/CD |
-| 💬 **Buscando** | Proyectos que me saquen de la zona de confort |
-| ⚡ **Motto** | *Si no da errores, no estás aprendiendo nada* |
+🌸 **Andrea** · 22 años  
+📍 Santander, Cantabria 🇪🇸  
+🎓 Ingeniería Informática · Universidad Europea del Atlántico  
+💻 Encaminada hacia el desarrollo full-stack  
+🗂️ Siempre tengo alguna pestaña abierta con algún proyecto en el que meterme  
+📡 Me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en lo que construyo  
+🔭 **Aprendiendo:** TypeScript · Next.js · Docker · CI/CD  
+✨ **Buscando:** proyectos que me saquen de la zona de confort  
+⚡ *Si no da errores, no estás aprendiendo nada*
 
 ---
 
