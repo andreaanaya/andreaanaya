@@ -4,9 +4,9 @@
 
 **`Estudiante de Ingeniería Informática · Full-Stack Developer en formación`**
 
-Estudiante de 3º en la [Universidad Europea del Atlántico](https://www.uneatlantico.es), Santander.
+Estudiante de 2º en [Universidad Europea del Atlántico](https://www.uneatlantico.es), Santander.
 Me especializo en el desarrollo de aplicaciones web con arquitecturas escalables y orientadas a producto.
-
+Aprendo mejor cuando los problemas son difíciles — cuanto más técnico, mejor.
 
 [![Email](https://img.shields.io/badge/andrea.anaya@alumnos.uneatlantico.es-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
 [![Instagram](https://img.shields.io/badge/@andreea31__-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
@@ -18,17 +18,14 @@ Me especializo en el desarrollo de aplicaciones web con arquitecturas escalables
 
 ## 🧠 Sobre mí
 
-```typescript
-const andrea = {
-  ubicación:   "Santander, Cantabria 🇪🇸",
-  universidad: "Universidad Europea del Atlántico",
-  edad:         22,
-  enfoque:     ["Full-Stack Web", "API Design", "UI/UX funcional"],
-  aprendiendo: ["TypeScript", "Next.js", "Docker", "CI/CD"],
-  buscando:    "proyectos que me saquen de la zona de confort",
-  motto:       "si no da errores, no estás aprendiendo nada",
-};
-```
+| | |
+|---|---|
+| 📍 **Ubicación** | Santander, Cantabria 🇪🇸 |
+| 🎓 **Universidad** | Universidad Europea del Atlántico |
+| 🔭 **Enfoque** | Full-Stack Web · API Design · UI/UX funcional |
+| 📖 **Aprendiendo** | TypeScript · Next.js · Docker · CI/CD |
+| 💬 **Buscando** | Proyectos que me saquen de la zona de confort |
+| ⚡ **Motto** | *Si no da errores, no estás aprendiendo nada* |
 
 ---
 
@@ -73,11 +70,20 @@ const andrea = {
 
 <div align="center">
 
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreaanaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaanaya&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreaanaya&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreaanaya&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -103,6 +109,6 @@ Desarrollo de presencia digital para empresa local del sector de la construcció
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=visitas+al+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=andreaanaya&color=blueviolet&style=flat-square&label=visitas+al+perfil)
 
 </div>
