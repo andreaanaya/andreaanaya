@@ -94,9 +94,8 @@
 
 ### 🔧 Plataforma web full-stack con gestión de usuarios y pagos *(en desarrollo)*
 
-Mi primer proyecto a punto de salir al mercado: Aplicación web de propósito general desarrollada con una arquitectura cliente-servidor desacoplada. El módulo de autenticación implementa JWT con refresh tokens y control de acceso basado en roles (RBAC). La integración con Stripe gestiona flujos de pago, suscripciones recurrentes y webhooks para sincronización de estados. Incorpora motor de búsqueda con filtros dinámicos, sistema de perfiles con gestión de datos de usuario, y un módulo de calendario con lógica de reservas y disponibilidad. Base de datos relacional con migraciones controladas por versión.
-
-**Stack:** `React` · `Node.js` · `Express` · `PostgreSQL` · `Stripe API` · `JWT`
+Mi primer proyecto a punto de salir al mercado: Sistema web full-stack para la gestión integral de una academia. Desarrollado desde cero con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación manual con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Desplegado con Docker.
+Stack: `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker` · `GitHub Actions`
 
 ---
 
