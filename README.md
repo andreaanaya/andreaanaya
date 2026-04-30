@@ -93,7 +93,7 @@
 
 ### 🔧 Plataforma web full-stack con gestión de usuarios y pagos *(en desarrollo)*
 
-Mi primer proyecto para sacar al mercado: Aplicación web de propósito general desarrollada con una arquitectura cliente-servidor desacoplada. El módulo de autenticación implementa JWT con refresh tokens y control de acceso basado en roles (RBAC). La integración con Stripe gestiona flujos de pago, suscripciones recurrentes y webhooks para sincronización de estados. Incorpora motor de búsqueda con filtros dinámicos, sistema de perfiles con gestión de datos de usuario, y un módulo de calendario con lógica de reservas y disponibilidad. Base de datos relacional con migraciones controladas por versión.
+Mi primer proyecto a punto de salir al mercado: Aplicación web de propósito general desarrollada con una arquitectura cliente-servidor desacoplada. El módulo de autenticación implementa JWT con refresh tokens y control de acceso basado en roles (RBAC). La integración con Stripe gestiona flujos de pago, suscripciones recurrentes y webhooks para sincronización de estados. Incorpora motor de búsqueda con filtros dinámicos, sistema de perfiles con gestión de datos de usuario, y un módulo de calendario con lógica de reservas y disponibilidad. Base de datos relacional con migraciones controladas por versión.
 
 **Stack:** `React` · `Node.js` · `Express` · `PostgreSQL` · `Stripe API` · `JWT`
 
