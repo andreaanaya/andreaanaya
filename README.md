@@ -98,7 +98,7 @@
 
 ### 🔧 Plataforma web full-stack con gestión de usuarios y pagos *(en desarrollo)*
 
-Este es mi primer proyecto a punto de salir al mercado: Es un sistema web full-stack para la gestión integral de una academia! Desarrollado con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación automática con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Todo desplegado con Docker.
+Este es mi primer proyecto a punto de salir al mercado: Es un sistema web full-stack para la gestión integral de una academia. Desarrollado con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación automática con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Todo desplegado con Docker. Es el proyecto que me está ayudando a orientar mi vocación academica y me está enseñando muchas cosas que no he visto antes en clase, tanto como a arreglar bugs, como a aprender sobre el diseño de las interfaces.
 Stack: `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker` · `GitHub Actions`
 
 ---
