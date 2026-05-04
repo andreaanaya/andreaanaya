@@ -22,11 +22,8 @@
 📍 Santander, Cantabria 🇪🇸  
 🎓 Ingeniería Informática · Universidad Europea del Atlántico  
 💻 Encaminada hacia el desarrollo full-stack  
-🗂️ Siempre tengo alguna pestaña abierta con algún proyecto en el que meterme  
-📡 Me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en lo que construyo  
-🔭 **Aprendiendo:** TypeScript · Next.js · Docker · CI/CD  
+📡 Me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en mis proyectos
 ✨ **Buscando:** proyectos que me saquen de la zona de confort  
-⚡ *Si no da errores, no estás aprendiendo nada*
 
 ---
 
