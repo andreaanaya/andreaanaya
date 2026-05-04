@@ -37,13 +37,14 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/python" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/fastapi" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 **Herramientas**
 
