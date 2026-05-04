@@ -38,7 +38,8 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 </div>
 
-**Backend**
+## 🛠️ Stack tecnológico
+
 **Backend**
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
@@ -50,27 +51,35 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28px" />
 </div>
 
+**Frontend**
+
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+<img src="https://iconic-api.onrender.com/dark/html" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="48px" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28px" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28px" />
+</div>
+
 **Herramientas**
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
 <img src="https://iconic-api.onrender.com/dark/git" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/github" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/postman" width="48px" />
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=googlegemini&logoColor=white)
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" height="28px" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=googlegemini&logoColor=white" height="28px" />
 </div>
+
 ---
 
 ## 📚 En proceso de aprender
 
-
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-013243?style=flat-square&logo=alembic&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28px" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28px" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28px" />
+<img src="https://img.shields.io/badge/Alembic-013243?style=flat-square&logo=alembic&logoColor=white" height="28px" />
 </div>
-
 ---
 
 ## 📊 Estadísticas
@@ -100,7 +109,7 @@
 
 ### 🔧 Plataforma web full-stack con gestión de usuarios y pagos *(en desarrollo)*
 
-Mi primer proyecto a punto de salir al mercado: Sistema web full-stack para la gestión integral de una academia. Desarrollado desde cero con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación manual con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Desplegado con Docker.
+Mi primer proyecto a punto de salir al mercado: Sistema web full-stack para la gestión integral de una academia. Desarrollado desde con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación manual con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Desplegado con Docker.
 Stack: `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker` · `GitHub Actions`
 
 ---
