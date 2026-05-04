@@ -29,17 +29,6 @@
 
 ## 🛠️ Stack tecnológico
 
-**Frontend**
-
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-<img src="https://iconic-api.onrender.com/dark/html" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/css" width="48px" />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-</div>
-
-## 🛠️ Stack tecnológico
-
 **Backend**
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
@@ -80,7 +69,6 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28px" />
 <img src="https://img.shields.io/badge/Alembic-013243?style=flat-square&logo=alembic&logoColor=white" height="28px" />
 </div>
----
 
 ## 📊 Estadísticas
 
