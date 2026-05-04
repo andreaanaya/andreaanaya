@@ -22,7 +22,7 @@
 📍 Santander, Cantabria 🇪🇸  
 🎓 Ingeniería Informática · Universidad Europea del Atlántico  
 💻 Encaminada hacia el desarrollo full-stack  
-📡 Me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en mis proyectos
+📡 Me gusta mantenerme al día con las tecnologías nuevas y aplicarlas en mis proyectos 
 ✨ **Buscando:** proyectos que me saquen de la zona de confort  
 
 ---
