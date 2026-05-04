@@ -39,13 +39,15 @@
 </div>
 
 **Backend**
+**Backend**
+
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
 <img src="https://iconic-api.onrender.com/dark/python" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/fastapi" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" height="28px" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28px" />
 </div>
 
 **Herramientas**
