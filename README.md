@@ -5,7 +5,7 @@
 **`Estudiante de Ingeniería Informática · Full-Stack Developer en formación`**
 
 ¡Hola! Soy Andrea, una estudiante de 2º de Ingeniería Informática en la [Universidad Europea del Atlántico](https://www.uneatlantico.es) , estoy empezando a meterme en el mundillo full-stack al tener un proyecto grande entre manos. Me encanta aprender cosas nuevas y estoy dispuesta a seguir creciendo colaborando en nuevos proyectos que me llamen la atención. Me gusta mantenerme al día con las nuevas tecnologías y mi mejor forma de aprender es cuando tengo algo en concreto que construir, por eso me gusta meterme e investigar sobre cualquier desafío que se me ponga delante, como el proyecto que explico más abajo!
-> Me encuentro **abierta a explorar nuevos desafíos profesionales y colaboraciones** donde pueda aportar mi stack y seguir creciendo. 
+> Me encuentro **abierta a explorar nuevos desafíos profesionales y colaboraciones** donde pueda aportar mi stack y seguir creciendo. Así que no dudes en contactarme si tienes algo en mente!
 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
