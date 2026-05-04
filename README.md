@@ -4,8 +4,9 @@
 
 **`Estudiante de Ingeniería Informática · Full-Stack Developer en formación`**
 
-¡Hola! Soy Andrea, estudiante de Ingeniería Informática en la [Universidad Europea del Atlántico](https://www.uneatlantico.es), y me estoy metiendo de lleno en el mundo full-stack. Aprendo mejor cuando tengo algo concreto que construir, así que casi siempre tengo algún proyecto abierto en alguna pestaña. Estoy buscando colaboraciones donde pueda aportar y seguir picando código.
+¡Hola! Soy Andrea, una estudiante de 2º de Ingeniería Informática en la [Universidad Europea del Atlántico](https://www.uneatlantico.es) , estoy empezando a meterme en el mundillo full-stack al tener un proyecto grande entre manos. Me encanta aprender cosas nuevas y estoy dispuesta a seguir creciendo colaborando en nuevos proyectos que me llamen la atención. Me gusta mantenerme al día con las nuevas tecnologías y mi mejor forma de aprender es cuando tengo algo en concreto que construir, por eso me gusta meterme e investigar sobre cualquier desafío que se me ponga delante, como el proyecto que explico más abajo!
 > Me encuentro **abierta a explorar nuevos desafíos profesionales y colaboraciones** donde pueda aportar mi stack y seguir creciendo. 
+
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.anaya@alumnos.uneatlantico.es)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andreea31__)
@@ -97,7 +98,7 @@
 
 ### 🔧 Plataforma web full-stack con gestión de usuarios y pagos *(en desarrollo)*
 
-Mi primer proyecto a punto de salir al mercado: Sistema web full-stack para la gestión integral de una academia. Desarrollado desde con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación manual con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Desplegado con Docker.
+Este es mi primer proyecto a punto de salir al mercado: Es un sistema web full-stack para la gestión integral de una academia! Desarrollado con FastAPI y PostgreSQL, incluye autenticación JWT con control de roles (RBAC), validación de DNI/NIE con algoritmo oficial español, gestión de alumnos y tutores con relaciones many-to-many, sistema de facturación automática con alertas de pagos pendientes y gestión de documentos (contratos y órdenes de domiciliación). Todo desplegado con Docker.
 Stack: `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `JWT` · `Docker` · `GitHub Actions`
 
 ---
