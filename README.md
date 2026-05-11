@@ -74,19 +74,21 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=andreaanaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <a href="https://github.com/andreaanaya">
+    <img height="200" src="https://github-readme-stats-phi-green.vercel.app/api?username=andreaanaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
+  
+  <a href="https://github.com/andreaanaya">
+    <img height="200" src="https://github-readme-stats-phi-green.vercel.app/api/top-langs/?username=andreaanaya&layout=compact&theme=tokyonight&langs_count=8"/>
+  </a>
+
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaanaya&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=andreaanaya&theme=tokyonight&hide_border=true)](https://github.com/andreaanaya)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreaanaya&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreaanaya&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
